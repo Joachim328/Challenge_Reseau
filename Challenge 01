@@ -1,0 +1,7 @@
+FTP - Authentification
+
+1- Clic droite sur "Démmarer le challenge" => copier l'adresse du lien => ouvril le lien dans un nouvel onglet et il télecharge 
+un fichier.
+2- Ouvrir le fichier avec wireshark => clic droite sur le premier protocole TCP => Suivre => Flux TCP
+
+Et vous trouverez la réponse.
