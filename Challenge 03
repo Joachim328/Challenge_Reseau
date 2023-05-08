@@ -1,7 +1,7 @@
 ETHERNET - trame
 1- Clic droite sur "Démmarer le challenge" => copier l'adresse du lien => ouvril le lien dans un nouvel onglet et il télecharge 
 un fichier.
-2 - Ouvrir le fichier avec wireshark => double clic  sur le  protocole HTTP => Cilquer sur "Hypertext Transfert Protocol" =>
+2 - Ouvrir le fichier avec wireshark => double clic  sur le  protocole HTTP => Cliquer sur "Hypertext Transfert Protocol" =>
 Cliquer "Authorizarion" 
 
 Et vous troverez le passwd là!
