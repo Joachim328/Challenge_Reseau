@@ -1,0 +1,10 @@
+1- Clic droite sur "Démmarer le challenge" => copier l'adresse du lien => ouvril le lien dans un nouvel onglet et vous verrez
+  un fichier texte qui contient de code exadécimale.
+2- Copier le code exadecimal
+3- taper sur Google "ASCI3" , entrer sur le premien site
+4- Coller le code Exadecimal et convertir en ASCII
+5- Dans le résultat, vous verrez "authoriziation : basic : ---- " 
+6- Copier les caractères après le mot "basic : "
+7- Taper sur google "Base64 Decode" et entrer sur le premier site
+8- Coller les caractères après le mot "basic : " qu'on vient de copier
+9- Cliquer "Decode" et vous verrez le résultat final
